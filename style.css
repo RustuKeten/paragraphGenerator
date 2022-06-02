@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+body {
+    background: linear-gradient(to right, hsl(200, 100%, 50%), hsl(175, 100%, 50%));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 20vh;
+    overflow: hidden;
+}
+
+body section h3 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: purple;
+    margin-bottom: 2rem;
+    
+}
+
+body section form label {
+    font-size: 1rem;
+    font-weight: 700;
+    color: purple;
+}
+
+article {
+    font-size: 1.125rem;
+    font-family: 'Roboto Condensed', sans-serif;
+    
+}
